@@ -2,8 +2,8 @@
 
 A lightweight Discord self-bot built with `discord.py-self` to automate periodic messaging and manage account presence.
 
-## ⚠️ Warning
-**Self-botting is against Discord's Terms of Service.** Using this script can result in your account being permanently banned. Use at your own risk. I am not responsible for your discors account getting banned
+> [!WARN]
+   **Self-botting is against Discord's Terms of Service.** Using this script can result in your account being permanently banned. Use at your own risk. I am not    responsible for your discors account getting banned
 
 ## Features
 - **Periodic Messaging**: Sends a custom message to a specific channel at set intervals.
